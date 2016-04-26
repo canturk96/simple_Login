@@ -1,0 +1,10 @@
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe.config
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csprojResolveAssemblyReference.cache
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.LoginForm.resources
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Properties.Resources.resources
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.RegisterForm.resources
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.GenerateResource.Cache
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.exe
+T:\VSprojects\TeamServiceDemos\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
